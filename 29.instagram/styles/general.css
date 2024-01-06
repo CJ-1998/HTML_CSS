@@ -15,3 +15,13 @@ body {
 img {
     max-width: 100%;
 }
+
+:root{
+    --primary: #FFFFFF;
+    --secondary: #FAFAFA;
+    --border: #DBDBDB;
+
+    --story-border: #C7C7C7;
+    --text-dark: #262626;
+    --text-light: #999999;
+}
