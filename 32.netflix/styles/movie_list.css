@@ -1,0 +1,35 @@
+.movie_lists{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.movie_list_container{
+    width: 100%;
+}
+
+.movie_list_name{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    margin-left: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.movie_list{
+    margin-left: 30px;
+    margin-right:30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    transition: all 0.8s;
+    cursor: pointer;
+}
+
+.image:hover{
+
+    transform: scale(1.3);
+}
